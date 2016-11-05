@@ -547,12 +547,10 @@ figure {
 	}
 }
 
-#work-section,
-#services-section,
-#friends,
-#work-section_2,
+#interests,
 #blog-section,
-#features {
+#friends-gallery,
+#logos {
 	padding: 7em 0;
 	@media screen and (max-width: $screen-sm) {
 		padding: 4em 0;
@@ -1119,7 +1117,6 @@ figure {
 
 #footer{
 	background: $brand-primary;
-	padding: 60px 0 40px;
 
 	p{
 		color: rgba($brand-white,1);

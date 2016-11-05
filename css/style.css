@@ -459,21 +459,16 @@ figure {
   color: #66D37E !important;
 }
 
-#work-section,
-#services-section,
-#friends,
-#work-section_2,
+#interests,
 #blog-section,
-#features {
+#friends-gallery,
+#logos{
   padding: 7em 0;
 }
 @media screen and (max-width: 768px) {
-  #work-section,
-  #services-section,
-  #friends,
-  #work-section_2,
+  #interests,
   #blog-section,
-  #features {
+  #logos {
     padding: 4em 0;
   }
 }
@@ -523,32 +518,6 @@ figure {
 }
 .feature-text p {
   font-size: 16px;
-}
-
-.services {
-  background: #66D37E;
-  padding: 40px 20px 20px 20px;
-  margin-bottom: 30px;
-}
-.services span {
-  margin-bottom: 30px;
-  display: block;
-  width: 100%;
-}
-.services span i {
-  font-size: 40px;
-  color: #fff !important;
-}
-.services h3 {
-  font-size: 20px;
-  font-weight: 400;
-  color: #fff;
-  color: #FBFFA3;
-}
-.services p {
-  font-size: 16px;
-  color: #C6E872;
-  color: rgba(255, 255, 255, 0.8);
 }
 
 .feature-left {
@@ -1052,7 +1021,6 @@ figure {
 
 #footer {
   background: #66D37E;
-  padding: 60px 0 40px;
 }
 #footer p {
   color: white;
